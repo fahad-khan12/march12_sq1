@@ -1,0 +1,8 @@
+com/examples/school/repository/mongo/StudentMongoRepositoryTestcontainersIT.class
+com/examples/school/view/swing/StudentSwingViewIT.class
+com/examples/school/controller/SchoolControllerTest.class
+com/examples/school/view/swing/StudentSwingViewTest.class
+com/examples/school/view/swing/SchoolSwingAppE2E$1.class
+com/examples/school/view/swing/SchoolSwingAppE2E.class
+com/examples/school/controller/SchoolControllerIT.class
+com/examples/school/repository/mongo/StudentMongoRepositoryTest.class

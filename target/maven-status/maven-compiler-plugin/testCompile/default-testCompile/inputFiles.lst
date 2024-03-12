@@ -1,0 +1,7 @@
+/home/walkingtree/projects/git_projects/sonarqube-codecoverage-example/com.examples.school/src/it/java/com/examples/school/view/swing/StudentSwingViewIT.java
+/home/walkingtree/projects/git_projects/sonarqube-codecoverage-example/com.examples.school/src/test/java/com/examples/school/controller/SchoolControllerTest.java
+/home/walkingtree/projects/git_projects/sonarqube-codecoverage-example/com.examples.school/src/it/java/com/examples/school/controller/SchoolControllerIT.java
+/home/walkingtree/projects/git_projects/sonarqube-codecoverage-example/com.examples.school/src/it/java/com/examples/school/repository/mongo/StudentMongoRepositoryTestcontainersIT.java
+/home/walkingtree/projects/git_projects/sonarqube-codecoverage-example/com.examples.school/src/test/java/com/examples/school/view/swing/StudentSwingViewTest.java
+/home/walkingtree/projects/git_projects/sonarqube-codecoverage-example/com.examples.school/src/e2e/java/com/examples/school/view/swing/SchoolSwingAppE2E.java
+/home/walkingtree/projects/git_projects/sonarqube-codecoverage-example/com.examples.school/src/test/java/com/examples/school/repository/mongo/StudentMongoRepositoryTest.java
